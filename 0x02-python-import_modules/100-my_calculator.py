@@ -24,5 +24,5 @@ if __name__ == "__main__":
         print("{} - {} = {}".format(a, b, sub(a, b)))
     if input_operator == "*":
         print("{} * {} = {}".format(a, b, mul(a, b)))
-    if input_operator == "*":
+    if input_operator == "/":
         print("{} / {} = {}".format(a, b, div(a, b)))
