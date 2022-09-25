@@ -7,7 +7,7 @@ if __name__ == "__main__":
             "arguments:" if num_args > 1
             else (
                 "argument:" if num_args == 1
-                else "argument."
+                else "arguments."
             )
         )
     )
